@@ -1,0 +1,7 @@
+version: "2"
+services:
+
+  mosquitto:
+    image: arm32v6/eclipse-mosquitto:latest
+    ports:
+      - "1883:1883"
