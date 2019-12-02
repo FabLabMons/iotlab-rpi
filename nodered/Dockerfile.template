@@ -7,7 +7,6 @@ RUN JOBS=MAX npm install -g --production --unsafe-perm \
   node-red \
   node-red-admin \
   node-red-contrib-balena \
-  node-red-contrib-ttn \
   node-red-dashboard \
   node-red-node-base64 \
   node-red-node-msgpack
